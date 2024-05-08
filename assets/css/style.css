@@ -31,7 +31,7 @@
 }
 
 #banner {
-  background-image: linear-gradient(to right, hsla(0, 1%, 26%, 0.533), rgba(52, 51, 51, 0.264)), url("../Images/bg-brand.webp");
+  background-image: linear-gradient(to right, hsla(0, 1%, 26%, 0.533), rgba(52, 51, 51, 0.264)), url("../images/bg-brand.webp");
   background-size: cover;
   position: relative;
   opacity: 0.9;
@@ -67,7 +67,7 @@ h1 {
 }
 
 #Services {
-  background-image: linear-gradient(to right, hsla(0, 0%, 0%, 0.533), rgba(0, 0, 0, 0.293)), url("../Images/map.jpg");
+  background-image: linear-gradient(to right, hsla(0, 0%, 0%, 0.533), rgba(0, 0, 0, 0.293)), url("../images/map.jpg");
   background-size: cover;
 }
 
@@ -86,7 +86,7 @@ h2 {
 }
 
 #About {
-  background-image: linear-gradient(to right, hsla(0, 1%, 26%, 0.533), rgba(52, 51, 51, 0.264)), url("../Images/bg-brand.webp");
+  background-image: linear-gradient(to right, hsla(0, 1%, 26%, 0.533), rgba(52, 51, 51, 0.264)), url("../images/bg-brand.webp");
   background-size: cover;
   position: relative;
   opacity: 0.9;
@@ -190,7 +190,7 @@ h2 {
 }
 
 #reviews {
-  background-image: linear-gradient(to right, hsla(0, 1%, 26%, 0.533), rgba(52, 51, 51, 0.264)), url("../Images/bg-brand.webp");
+  background-image: linear-gradient(to right, hsla(0, 1%, 26%, 0.533), rgba(52, 51, 51, 0.264)), url("../images/bg-brand.webp");
   background-size: cover;
   position: relative;
   opacity: 0.9;
